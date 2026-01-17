@@ -1,4 +1,4 @@
-package com.example.s32706Bank.dto;
+package com.example.s32706Bank.storage;
 
 import java.math.BigDecimal;
 import java.time.Instant;

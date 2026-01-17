@@ -8,7 +8,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.ArgumentCaptor;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-import com.example.s32706Bank.dto.TransactionResponse;
+import com.example.s32706Bank.storage.TransactionResponse;
 import com.example.s32706Bank.model.Client;
 import com.example.s32706Bank.model.TransactionCode;
 import com.example.s32706Bank.model.TransactionStatus;

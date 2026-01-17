@@ -1,6 +1,6 @@
 package com.example.s32706Bank.integration;
 
-import com.example.s32706Bank.dto.*;
+import com.example.s32706Bank.storage.*;
 import com.example.s32706Bank.model.Client;
 import com.example.s32706Bank.service.BankService;
 import jakarta.validation.Valid;

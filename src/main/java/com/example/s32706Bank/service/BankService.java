@@ -1,7 +1,7 @@
 package com.example.s32706Bank.service;
 
 import org.springframework.stereotype.Service;
-import com.example.s32706Bank.dto.TransactionResponse;
+import com.example.s32706Bank.storage.TransactionResponse;
 import com.example.s32706Bank.model.Client;
 import com.example.s32706Bank.model.TransactionCode;
 import com.example.s32706Bank.model.TransactionStatus;

@@ -1,4 +1,4 @@
-package com.example.s32706Bank.dto;
+package com.example.s32706Bank.storage;
 
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;

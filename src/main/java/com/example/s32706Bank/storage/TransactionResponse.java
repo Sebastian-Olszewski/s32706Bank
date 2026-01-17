@@ -1,4 +1,4 @@
-package com.example.s32706Bank.dto;
+package com.example.s32706Bank.storage;
 
 import com.example.s32706Bank.model.TransactionCode;
 import com.example.s32706Bank.model.TransactionStatus;

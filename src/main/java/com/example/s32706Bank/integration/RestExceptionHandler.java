@@ -1,6 +1,6 @@
 package com.example.s32706Bank.integration;
 
-import com.example.s32706Bank.dto.ErrorResponse;
+import com.example.s32706Bank.storage.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
